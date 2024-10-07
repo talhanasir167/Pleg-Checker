@@ -1,4 +1,4 @@
-# Plagiarism-checker-Python
+# Pleg-checker
 
 This Python script detects plagiarism in text documents using **cosine similarity**.
 
